@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c07a347.chunk.css",
+    "main.js": "/static/js/main.f2d1402b.chunk.js",
+    "main.js.map": "/static/js/main.f2d1402b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7d56b628.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7d56b628.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.894e63c2.chunk.js": "/static/js/2.894e63c2.chunk.js",
+    "static/js/2.894e63c2.chunk.js.map": "/static/js/2.894e63c2.chunk.js.map",
+    "static/js/3.d7f5e8a9.chunk.js": "/static/js/3.d7f5e8a9.chunk.js",
+    "static/js/3.d7f5e8a9.chunk.js.map": "/static/js/3.d7f5e8a9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.5c07a347.chunk.css.map": "/static/css/main.5c07a347.chunk.css.map",
+    "static/js/2.894e63c2.chunk.js.LICENSE.txt": "/static/js/2.894e63c2.chunk.js.LICENSE.txt",
+    "static/media/CV_Quispe Cardenas Renzo.440526a7.pdf": "/static/media/CV_Quispe Cardenas Renzo.440526a7.pdf",
+    "static/media/index.css": "/static/media/background.eb86b197.jpeg",
+    "static/media/email.cda01889.svg": "/static/media/email.cda01889.svg",
+    "static/media/github.6f3dfadf.svg": "/static/media/github.6f3dfadf.svg",
+    "static/media/instagram.38b5184b.svg": "/static/media/instagram.38b5184b.svg",
+    "static/media/linkedin.460e12f0.svg": "/static/media/linkedin.460e12f0.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/logo_promitia.ec0325b3.png": "/static/media/logo_promitia.ec0325b3.png",
+    "static/media/mobile.011b6a2f.svg": "/static/media/mobile.011b6a2f.svg",
+    "static/media/profile.197f9d53.png": "/static/media/profile.197f9d53.png",
+    "static/media/projects.a14d96dc.jpeg": "/static/media/projects.a14d96dc.jpeg",
+    "static/media/rocket.8cd902a8.svg": "/static/media/rocket.8cd902a8.svg",
+    "static/media/socials.8b803c02.svg": "/static/media/socials.8b803c02.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d56b628.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.894e63c2.chunk.js",
+    "static/css/main.5c07a347.chunk.css",
+    "static/js/main.f2d1402b.chunk.js"
+  ]
+}
